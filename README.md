@@ -1,6 +1,3 @@
-# 4100-Utah-Jazz-Project
-Aight @Shaq
-
 {
  "cells": [
   {
